@@ -1,2 +1,3 @@
 # coding_challenges
-Coding Challenges
+Coding Challenges done during traineeship in Nokia ATG. 
+The source of problems is the LeetCode.com
